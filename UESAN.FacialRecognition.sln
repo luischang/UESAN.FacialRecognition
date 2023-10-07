@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UESAN.FacialRecognition.API", "UESAN.FacialRecognition.API\UESAN.FacialRecognition.API.csproj", "{8FF60906-5ECE-4517-B481-882C8353419C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UESAN.FacialRecognition.CORE", "UESAN.FacialRecognition.CORE\UESAN.FacialRecognition.CORE.csproj", "{319C1E61-33C1-401E-89DF-2C4EB82075F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UESAN.FacialRecognition.INFRASTRUCTURE", "UESAN.FacialRecognition.INFRASTRUCTURE\UESAN.FacialRecognition.INFRASTRUCTURE.csproj", "{5FBC2950-DC4D-448A-AFAB-248056249A2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF60906-5ECE-4517-B481-882C8353419C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF60906-5ECE-4517-B481-882C8353419C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF60906-5ECE-4517-B481-882C8353419C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF60906-5ECE-4517-B481-882C8353419C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{319C1E61-33C1-401E-89DF-2C4EB82075F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{319C1E61-33C1-401E-89DF-2C4EB82075F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{319C1E61-33C1-401E-89DF-2C4EB82075F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{319C1E61-33C1-401E-89DF-2C4EB82075F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FBC2950-DC4D-448A-AFAB-248056249A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FBC2950-DC4D-448A-AFAB-248056249A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FBC2950-DC4D-448A-AFAB-248056249A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FBC2950-DC4D-448A-AFAB-248056249A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B47AB827-B56F-4BB9-ACD4-8496865C9A47}
+	EndGlobalSection
+EndGlobal
